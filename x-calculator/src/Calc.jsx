@@ -122,7 +122,7 @@ const Calculator = () => {
         <button name="4" onClick={handleClick} style={{margin:"5px"}}>4</button>
         <button name="5" onClick={handleClick} style={{margin:"5px"}}>5</button>
         <button name="6" onClick={handleClick} style={{margin:"5px"}}>6</button>
-        <button name="-" onClick={handleClick} style={{margin:"5px"}}>–</button>
+        <button name="-" onClick={handleClick} style={{margin:"5px"}}>-</button>
     </div>
     <div>
         <button name="1" onClick={handleClick} style={{margin:"5px"}}>1</button>
